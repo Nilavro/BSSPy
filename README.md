@@ -33,7 +33,7 @@ More detailed documentation coming soon
 
 ## Acknowledgments
 
-* Earlier version of codes that were used 
-** [ NP Young's Code for State Space Model](https://gist.github.com/npyoung/adc097f95c6148a5e31c2f388efaa697)
-** [Taku Yoshiya's Codes for Bounding variables](https://gist.github.com/taku-y/aa4503452b5573c458c8c3fc32af0919)
-** [Helmut H. Strey's Codes for HMM in PyMC3](https://github.com/hstrey/Hidden-Markov-Models-pymc3)
+#### * Earlier version of codes that were used 
+#### ** [ NP Young's Code for State Space Model](https://gist.github.com/npyoung/adc097f95c6148a5e31c2f388efaa697)
+#### ** [Taku Yoshiya's Codes for Bounding variables](https://gist.github.com/taku-y/aa4503452b5573c458c8c3fc32af0919)
+#### ** [Helmut H. Strey's Codes for HMM in PyMC3](https://github.com/hstrey/Hidden-Markov-Models-pymc3)
