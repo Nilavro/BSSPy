@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things Packages need to install:
+Packages required:
 
 ```
 pymc3, seaborn , matplotlib (if plotting needed), theano (will be installed with pymc3), numpy, scipy, scikit-learn , pandas
