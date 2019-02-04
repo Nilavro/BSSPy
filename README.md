@@ -7,7 +7,7 @@
 
 # BSSPy
 
-The package has codes for the Bayesuian State Space Model. It is a generic state space model, the dynamics is specified in the individual demo files.
+The package has codes for the Bayesian State Space Model. It is a generic state space model, the dynamics is specified in the individual demo files.
 
 ## Getting Started
 
